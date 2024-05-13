@@ -1,0 +1,95 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 69px 120px;
+
+}
+
+.menu-number li{
+    list-style: none;
+    
+    
+}
+.menu-number{
+    display: flex;
+    gap: 34px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    gap: 133px;
+    margin: 55px 132px 100px 120px;
+    
+}
+
+.influencer-title{
+    font-size: 45px;
+}
+
+.logos{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin: 85px 155px 85px 155px;
+    align-items: center;
+}
+
+.section-title{
+    display: flex;
+    justify-content: center;
+}
+
+
+    
+
+
+.popular-collection{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.collection-container{
+    display: grid;
+    gap: 30px;
+
+    grid-template-columns: repeat(3,1fr);
+    
+}
+
+.feature-product{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    align-items: center;
+    margin-top: 120px;
+}
+
+.last-part{
+    width: 1000px;
+    height: 250px;
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    background-color: green;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    color: white;
+
+}
+.more{
+    
+    position: relative;
+    left: 430px;
+    color: brown;
+    
+}
